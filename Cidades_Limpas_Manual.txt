@@ -1,0 +1,64 @@
+Identificador,Cidade
+29302,Tupã
+34793,Buranhém
+35007,Mauá
+34962,Parque Industrial
+29387,Embu das Artes
+29544,São Pedro do Glória
+35188,Ji-Paraná
+35379,Três Corações
+36690,Varre-Sai
+36285,Magé
+29769,Poções
+37669,Embu das Artes
+30231,São Luís
+37697,Embu das Artes
+30272,Durval de Barros
+54505,Dores da Vitória
+55033,Ribeirão de São Domingos
+55036,Penha do Coco
+55051,Penha do Capim
+54532,São Vicente do Grama
+54874,São Pedro de Rates
+54499,Dores da Vitória
+39754,Ji-Paraná
+30488,Magé
+40471,São João Del Rei
+40672,Muriaé
+30450,Guaçuí
+48241,Parque Industrial
+47253,Santa Rita da Floresta
+47965,Itabirinha de Mantena
+46989,Embu das Artes
+57174,Itabirinha de Mantena
+57934,Ubá
+62098,Itabirinha de Mantena
+71701,Flórida
+73722,Ribeiro de Campo de Cão
+20000211,Claúdio
+30000973,Plymouth
+82469,República do Panamá
+91688,República do Panamá
+20001793, Itaúna
+113412,Ji-Paraná
+138732,Olhos D'água
+140793,Ribeiro de Campo de Cão
+138719,Olhos D'água
+143713,Ji-Paraná
+152561,Barra do Rocha
+157210,Ji-Paraná
+156836,Ji-Paraná
+155672,Xique-Xique
+20005593,Ji-Paraná
+163333,Ji-Paraná
+164491,Ribeiro de Campo de Cão
+166670,Ji-Paraná
+167825,Ji-Paraná
+168586,Ji-Paraná
+166909,Rio Espera
+170414,Viçosa
+20006886,unknown
+20006662,Danbury
+30010181,unknown
+170905,unknown
+
