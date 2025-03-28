@@ -29,7 +29,7 @@ O trabalho abordou as seguintes 10 questões:
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone [URL_DO_REPOSITÓRIO]
+   git clone https://github.com/alvaroagsn/TPs-Ciencia-de-Dados.git
    ```
 2. Instale as dependências:
    ```bash
